@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Local environment and secrets
+.env
+.python-version
+
+# Downloaded data and generated databases
+data/raw/*
+data/processed/*
+
+# Tableau temporary files
+~*
