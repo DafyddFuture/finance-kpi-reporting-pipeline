@@ -62,8 +62,7 @@ Data preparation, SQL reporting and two Tableau dashboards completed. Documentat
 
 ## Tableau workbook
 
-The packaged workbook is saved at:
-tableau/dft_finance_kpi_dashboard.twbx
+[Download the Tableau packaged workbook](tableau/dft_finance_kpi_dashboard.twbx)
 
 It contains:
 - DfT Spending Dashboard: monthly trends, top recipients and categories.
