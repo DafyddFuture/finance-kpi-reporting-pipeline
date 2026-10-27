@@ -35,4 +35,36 @@ Python, pandas, requests, matplotlib, SQLite, JupyterLab and Tableau.
 
 ## Status
 
-Project setup in progress.
+Data preparation, SQL reporting and two Tableau dashboards completed. Documentation and publication in progress.
+
+## Key findings
+
+- Analysed 3,845 central DfT payment records from October 2025 to March 2026.
+- March had the highest monthly published payments at £3.203 billion,
+  up £578.03 million (22.02%) from February.
+- Network Rail received 34.02% of published payments; National Highways
+  Limited received 14.70%.
+- March category movements reconcile to the overall monthly increase.
+- A £400 million payment on 31 March was described as funding for April,
+  illustrating why payment dates and funding periods can differ.
+
+## Data quality and review rules
+
+- All retained records had valid dates and numeric amounts.
+- All payment dates matched their source month.
+- Retained 49 rows belonging to identical-record groups for review.
+- Found 1,093 records with unavailable descriptions marked as #.
+- Flagged 98 records exceeding five times their category average,
+  considering only categories with at least 10 records.
+- Category averages use the full six-month dataset. Tableau month filters
+  select existing flags; they do not recalculate the thresholds.
+- Flags are review indicators, not evidence of error or wrongdoing.
+
+## Tableau workbook
+
+The packaged workbook is saved at:
+tableau/dft_finance_kpi_dashboard.twbx
+
+It contains:
+- DfT Spending Dashboard: monthly trends, top recipients and categories.
+- Payment Review: individual flagged records, source references and a month filter.
