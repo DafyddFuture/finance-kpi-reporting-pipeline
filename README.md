@@ -8,7 +8,7 @@ Department for Transport published spending over £25,000.
 - Period: October 2025 to March 2026
 - Reporting entity: central Department for Transport
 - Monthly published spending and month-to-month changes
-- Spending by supplier, expense type and expense area
+- Spending by supplier and expense type
 - Supplier concentration
 - Unusual transactions flagged for review
 
