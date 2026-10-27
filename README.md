@@ -35,7 +35,7 @@ Python, pandas, requests, matplotlib, SQLite, JupyterLab and Tableau.
 
 ## Status
 
-Data preparation, SQL reporting and two Tableau dashboards completed. Documentation and publication in progress.
+Completed: data preparation, SQL reporting, two Tableau dashboards and project documentation. Published on GitHub and Tableau Public.
 
 ## Key findings
 
