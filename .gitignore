@@ -17,3 +17,6 @@ data/processed/*
 
 # Tableau temporary files
 ~*
+
+# Tableau recovery files
+*.twbr
