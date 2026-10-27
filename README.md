@@ -67,3 +67,9 @@ Data preparation, SQL reporting and two Tableau dashboards completed. Documentat
 It contains:
 - DfT Spending Dashboard: monthly trends, top recipients and categories.
 - Payment Review: individual flagged records, source references and a month filter.
+
+## Interactive Tableau dashboard
+
+[View DfT Published Spending and Payment Review on Tableau Public](https://public.tableau.com/app/profile/dafydd.jones2594/viz/DfTPublishedSpendingandPaymentReview/PaymentReview)
+
+The link opens Payment Review. Use the workbook tabs to switch to DfT Spending Dashboard.
