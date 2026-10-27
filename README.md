@@ -70,6 +70,6 @@ It contains:
 
 ## Interactive Tableau dashboard
 
-[View DfT Published Spending and Payment Review on Tableau Public](https://public.tableau.com/app/profile/dafydd.jones2594/viz/DfTPublishedSpendingandPaymentReview/PaymentReview)
+[View DfT Published Spending and Payment Review on Tableau Public](https://public.tableau.com/app/profile/dafydd.jones2594/viz/DfTPublishedSpendingandPaymentReview/DfTSpendingDashboard)
 
-The link opens Payment Review. Use the workbook tabs to switch to DfT Spending Dashboard.
+Update Tableau landing page and navigation details.
